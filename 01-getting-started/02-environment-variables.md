@@ -1,7 +1,7 @@
 <h1 class="fsz-xl tt-u ls-16">Environment Variables</h1>
 LaravelAPS has environment variables located in `.env` file. As a starter `.env.example` file is provided. It's pretty standard with all the laravel installation. You need to get the required values for keys present in `.env` file. Following are the default keys which are present in `.env` file
 
-<h2 class="fsz-lg tt-u ls-16 c-gray mt-6 bdB">.env.example</h2>
+<h2 class="fsz-lg tt-u ls-16 c-gray mt-6 bdB">Example Environment File</h2>
 These keys are default keys. 
 
     APP_NAME="LaravelAPS"
