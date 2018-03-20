@@ -21,7 +21,7 @@ Go to facebook and get app id and app secret, Fill those values into the `.env` 
     FACEBOOK_APP_SECRET=    
     
 <h2 class="fsz-lg tt-u ls-16 c-gray mt-6 bdB">Google</h2>    
-Go to google and get client id, client secret and server key (api key), Fill those values into the `.env` file to the following keys
+Go to google and get client id, client secret and server key (api key), Fill those values into the `.env` file to the following keys test
 
     GOOGLE_CLIENT_ID=
     GOOGLE_CLIENT_SECRET=
