@@ -9,7 +9,7 @@ LaravelAPS uses akismet api for spam protection. Go to [Akismet webiste](https:/
 
 
 <h2 class="fsz-lg tt-u ls-16 c-gray mt-6 bdB">Google recaptcha</h2>
-We use [Google Recaptcha](https://www.google.com/recaptcha/admin#list) to verify human. Go to Google Recaptcha website and get site key and site secret and fill into into the following keys in `.env` file
+We use [Google Recaptcha](https://www.google.com/recaptcha/admin#list) to verify human. Go to Google Recaptcha website and get site key and site secret and fill into into the following keys in `.env` file.
 
     GOOGLE_RECAPTCHA_SITE_KEY=
     GOOGLE_RECAPTCHA_SECRET_KEY=
