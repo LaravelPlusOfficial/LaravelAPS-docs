@@ -13,4 +13,4 @@ To install LaravelAPS run following commands:
     composer create-project laravel-plus-official/laravel-aps
 
 <h2 class="fsz-lg tt-u ls-16 c-gray mt-6 bdB">Before Installing</h2>
-Before installing app, go to [environment variables](/laravelaps/docs/{{version}}/environment-variables) and review the brief intro.
+Before installing app, go to [environment variables]({{docsUrl}}/{{version}}/environment-variables) and review the brief intro.
